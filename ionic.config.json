@@ -1,0 +1,7 @@
+{
+  "name": "HeyHo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
